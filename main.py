@@ -89,8 +89,6 @@ def risovashka(cringe):
 
 
 n = int(input("Введите количество точек разбиения \n"))
-
-
 step = (b - a) / n
 var = int(input("1-лево, 2-право, 3-центр, 4-как получится \n"))
 
